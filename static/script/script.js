@@ -1,1 +1,1 @@
-import 'https://github.com/mrfidal/script.js';
+import 'https://mrfidal.github.io/work/asna/static/script/script.js';
